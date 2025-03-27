@@ -1,4 +1,3 @@
-# Pragnya's Portfolio
 
 # [Project1: Fake Reviews Detection](https://github.com/PragnyaPataskar/fake_review_detection)
 This is part of my master's thesis project, where the main aim was to check whether we can extract context-rich features using Large Language Models (LLMs)
@@ -13,7 +12,7 @@ This is part of my master's thesis project, where the main aim was to check whet
 # [Project2: Movies Recommendation System](https://github.com/PragnyaPataskar/movie_recommendaation_system)
 This project gives you insights into how Netflix, Instagram, and other social media use their recommendation system.
 
-* The data was used from the Kaggle site: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+* The data was used from the [Kaggle site](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 * Here, all the basic steps are performed
 * The concept used was the content-based approach
 * The results show the top 5 matching movies according to the user request

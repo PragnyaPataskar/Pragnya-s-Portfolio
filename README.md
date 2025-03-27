@@ -13,6 +13,5 @@ This is part of my master's thesis project, where the main aim was to check whet
 This project gives you insights into how Netflix, Instagram, and other social media use their recommendation system.
 
 * The data was used from the [Kaggle site](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
-* Here, all the basic steps are performed
-* The concept used was the content-based approach
+* The concept used was the content-based approach using the KNN model
 * The results show the top 5 matching movies according to the user request
